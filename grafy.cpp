@@ -63,6 +63,8 @@ int main()
 
 	//eksperyment();
 	cout << "Witaj gicie";
+	cout << "Witaj gicie";
+	cout << "Witaj gicie";
 
 
 
