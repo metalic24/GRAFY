@@ -1,0 +1,12 @@
+﻿  grafy.cpp
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\grafy.cpp(55,6): warning C4101: "wierzcholki": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\grafy.cpp(411,41): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\grafy.cpp(496,22): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\grafy.cpp(506,25): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\grafy.cpp(589,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\grafy.cpp(591,71): warning C4244: "=": konwersja z "float" do "__int64", możliwa utrata danych
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\grafy.cpp(596,38): warning C4244: "inicjowanie": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\grafy.cpp(597,37): warning C4244: "inicjowanie": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\grafy.cpp(618,56): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\grafy.cpp(618,46): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+  grafy.vcxproj -> C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\Debug\grafy.exe

@@ -1,0 +1,4 @@
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\x64\Debug\grafy.exe
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\grafy\grafy\x64\Debug\grafy.pdb
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\x64\Debug\grafy.exe
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\x64\Debug\grafy.pdb

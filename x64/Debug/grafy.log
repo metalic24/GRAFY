@@ -1,0 +1,29 @@
+﻿  funkcje.cpp
+  grafy.cpp
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\grafy.cpp(55,6): warning C4101: "wierzcholki": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\grafy.cpp(384,41): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\grafy.cpp(413,22): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\grafy.cpp(424,25): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\grafy.cpp(515,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\grafy.cpp(546,56): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\grafy.cpp(546,46): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+  kolejka.cpp
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\kolejka.cpp(19,26): warning C4244: "=": konwersja z "_Ty1" do "int", możliwa utrata danych
+          with
+          [
+              _Ty1=__int64
+          ]
+  lista.cpp
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\lista.cpp(138,21): warning C4244: "return": konwersja z "_Ty1" do "int", możliwa utrata danych
+          with
+          [
+              _Ty1=__int64
+          ]
+C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\lista.cpp(157,21): warning C4244: "return": konwersja z "_Ty2" do "int", możliwa utrata danych
+          with
+          [
+              _Ty2=__int64
+          ]
+  Generowanie kodu...
+  LINK : nie znaleziono elementu C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\x64\Debug\grafy.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+  grafy.vcxproj -> C:\Users\MATI\OneDrive - Politechnika Wroclawska\Pulpit\szkoła\Meteusz_Kraszewski_254463_struktury_danych_porjekt_nr3\grafy\x64\Debug\grafy.exe
